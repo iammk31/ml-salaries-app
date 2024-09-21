@@ -1,6 +1,6 @@
 import React from 'react';
-import Analytics from './components/Analytics';
-import LLMChat from './components/LLMChat';
+import Analytics from './Components/Analytics';
+import LLMChat from './Components/LLMChat';
 
 const App: React.FC = () => {
   return (
