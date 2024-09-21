@@ -1,0 +1,6 @@
+[
+    { "year": 2020, "total_jobs": 200, "avg_salary": 120000, "job_titles": [{ "title": "ML Engineer", "count": 50 }, { "title": "Data Scientist", "count": 150 }] },
+    { "year": 2021, "total_jobs": 250, "avg_salary": 125000, "job_titles": [{ "title": "ML Engineer", "count": 100 }, { "title": "AI Specialist", "count": 150 }] },
+    { "year": 2022, "total_jobs": 300, "avg_salary": 130000, "job_titles": [{ "title": "ML Engineer", "count": 150 }, { "title": "AI Engineer", "count": 150 }] }
+  ]
+  
