@@ -30,7 +30,7 @@ const LLMChat: React.FC = () => {
       
       <button
         onClick={handleAsk}
-        className="w-full bg-blue-600 text-white font-bold px-6 py-3 rounded-lg hover:bg-blue-700 transition duration-200"
+        className="w-full bg-pink-600 text-white font-bold px-6 py-3 rounded-lg hover:bg-blue-700 transition duration-200"
       >
         Ask
       </button>
